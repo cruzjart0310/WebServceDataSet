@@ -1,0 +1,5 @@
+c:\users\rayban\documents\visual studio 2013\Projects\WebService\WebService\bin\WebService.dll.config
+c:\users\rayban\documents\visual studio 2013\Projects\WebService\WebService\bin\WebService.dll
+c:\users\rayban\documents\visual studio 2013\Projects\WebService\WebService\bin\WebService.pdb
+c:\users\rayban\documents\visual studio 2013\Projects\WebService\WebService\obj\Debug\WebService.dll
+c:\users\rayban\documents\visual studio 2013\Projects\WebService\WebService\obj\Debug\WebService.pdb
